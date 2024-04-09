@@ -11,6 +11,7 @@ body {
 .header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   background-color: rgb(255, 255, 255);
   width: 100%;
   height: 75px;
@@ -33,19 +34,24 @@ body {
   font-family: "flame-regular";
   font-size: 16px;
   color: rgb(168, 168, 168);
+  background-color: blue;
+  width: 175px;
+  margin-left: 70px;
 }
 
-.body {
+
+/* .body {
   background-color: rgb(72, 255, 0);
   width: 100%;
   height: 800px;
   float: right;
-}
+} */
 
 .toggle {
   display: flex;
   align-items: center;
   justify-content: end;
+  margin-left: 20px;
   background-color: #e70;
   width: 47px;
   height: 24px;
@@ -72,13 +78,13 @@ body {
   color: #e70;
 }
 
-.header-line {
+/* .header-line {
   height: 28px;
   width: 2px;
   opacity: 0.1;
   background-color: #484848;
 
-}
+} */
 
 .search-bar {
   display: flex;
