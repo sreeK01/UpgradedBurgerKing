@@ -86,6 +86,9 @@ body {
 }
 
 .search-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   float: left;
   margin-left: 115px;
   background-color: #fbfaf8;
@@ -96,16 +99,8 @@ body {
 
 }
 
-.pin-icon {
-
-  float: left;
-  margin-left: 42px;
-  margin-top: 15px;
-}
 
 .search-text {
-  float: left;
-  margin-left: 10px;
   font-family: "FlameSans-Regular", sans-serif;
   font-size: 14px;
   font-weight: 600;
@@ -139,7 +134,8 @@ body {
 .header-right {
   display: flex;
   float: left;
-  justify-content: space-between;
+  justify-content: space-around;
+  align-items: center;
   margin-left: 94px;
   margin-top: 33px;
   width: 480px;
