@@ -154,8 +154,6 @@ body {
 
 .nav{
   background-color: blue;
-  display: flex;
-  justify-content: center;
   margin-top: 80px;
   width: 100%;
   height: 354px;
@@ -240,6 +238,15 @@ body {
 } */
 
 
+.menu-images{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 113px;
+  margin-right: 113px;
+  
+}
+
 
 
 .img-1 {
@@ -247,6 +254,17 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
+}
+
+.img-1-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 114px;
+  background-color: green;
+  text-align: center;
+
 }
 
 .img-2 {
