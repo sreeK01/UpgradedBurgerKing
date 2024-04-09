@@ -156,22 +156,20 @@ body {
   background-color: blue;
   display: flex;
   justify-content: center;
+  margin-top: 80px;
+  width: 100%;
+  height: 354px;
   
 }
 
 
 
-.nav-background {
-  margin-top: 80px;
-  width: 100%;
-  height: 354px;
-}
 
-.our-menu {
-  position: absolute;
+
+/* .our-menu {
+  margin-top: 80px;
+  margin-left: -500px;
   color: rgb(0, 0, 0);
-  margin-left: 112px;
-  padding-top: 88px;
   font-family: 'Flame-Regular', sans-serif;
   font-size: 28px;
   letter-spacing: 0.5px;
@@ -180,7 +178,7 @@ body {
   text-decoration: none solid rgb(0, 0, 0);
 
 
-}
+} */
 
 /* .menu-images {
   float: left;
@@ -249,8 +247,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-2 {
@@ -258,8 +254,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 
@@ -270,8 +264,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-4 {
@@ -279,8 +271,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-5 {
@@ -289,8 +279,6 @@ body {
 
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-6 {
@@ -298,8 +286,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-7 {
@@ -307,8 +293,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-8 {
@@ -316,8 +300,6 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
 
 .img-9 {
@@ -325,9 +307,11 @@ body {
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-top: 174px;
-  position: absolute;
 }
+
+
+/* IMAGE ELEMENTS ENDS HERE BELOW */
+
 
 .explore-menu {
   background-color: #e70;
