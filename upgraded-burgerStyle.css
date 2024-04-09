@@ -23,6 +23,7 @@ body {
 .header-icon {
   width: 44px;
   height: 47px;
+  margin-top: 20px;
   margin-left: 95px;
   background-color: rgb(255, 255, 255);
   border-radius: 50%;
@@ -34,7 +35,7 @@ body {
   font-size: 16px;
   color: rgb(168, 168, 168);
   width: 153px;
-  background-color: blue;
+  margin-left: 70px;
 }
 
 
@@ -52,9 +53,9 @@ body {
   background-color: #e70;
   width: 45px;
   height: 24px;
+  margin-left: 10px;
   border-radius: 200px;
   box-shadow: inset 0 5px 5px -5px rgba(0, 0, 0, 0.5);
-  background-color: green;
 }
 
 .toggle-button {
@@ -69,6 +70,7 @@ body {
 }
 
 .delivery {
+  margin-left: 10px;
   font-size: 16px;
   font-family: "flame-regular";
   letter-spacing: 0.2px;
@@ -78,6 +80,7 @@ body {
 .header-line {
   height: 28px;
   width: 2px;
+  margin-left: 5px;
   opacity: 0.1;
   background-color: #484848;
 
@@ -88,8 +91,9 @@ body {
   align-items: center;
   justify-content: center;
   background-color: #fbfaf8;
-  width: 290px;
+  width: 310px;
   height: 42px;
+  margin-left: 10px;
   border-radius: 200px;
 
 }
@@ -129,10 +133,11 @@ body {
 .header-right {
   display: flex;
   float: left;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   width: 480px;
   height: 19px;
+  margin-left: 90px;
   font-family: "flame-regular";
   font-size: 16px;
   color: rgb(168, 168, 168);
@@ -141,10 +146,13 @@ body {
 
 }
 
-.login {
-  margin-left: 13px;
-
+.search-icon {
+  display: flex;
+  align-self: center;
+  margin-left: 35px;
 }
+
+
 
 
 
