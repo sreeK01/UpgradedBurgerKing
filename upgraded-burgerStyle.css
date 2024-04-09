@@ -152,7 +152,12 @@ body {
   margin-left: 35px;
 }
 
- 
+.nav{
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  
+}
 
 
 
@@ -177,15 +182,14 @@ body {
 
 }
 
-.menu-images {
+/* .menu-images {
   float: left;
-}
-
+} */
+/* 
 .menu-item-names {
   display: flex;
   justify-content: space-around;
   position: absolute;
-  float: left;
   color: rgb(0, 0, 0);
   font-family: 'Flame-Regular', sans-serif;
   font-size: 18px;
@@ -194,9 +198,10 @@ body {
   text-decoration: none solid rgb(0, 0, 0);
   margin-top: 260px;
   margin-left: 120px;
-}
+  background-color: green;
+} */
 
-.whopper {
+/* .whopper {
   margin-left: 90px;
 }
 
@@ -234,29 +239,25 @@ body {
 .friends {
   margin-left: 70px;
 
-}
+} */
 
 
 
 
 .img-1 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 112px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-2 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 248px;
   margin-top: 174px;
   position: absolute;
 }
@@ -265,79 +266,65 @@ body {
 
 
 .img-3 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 400px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-4 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 544px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-5 {
-  float: left;
   width: 114px;
   height: 112px;
 
   background-color: white;
   border-radius: 5px;
-  margin-left: 688px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-6 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 832px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-7 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 976px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-8 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 1120px;
   margin-top: 174px;
   position: absolute;
 }
 
 .img-9 {
-  float: left;
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
-  margin-left: 1264px;
   margin-top: 174px;
   position: absolute;
 }
