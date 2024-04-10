@@ -133,7 +133,7 @@ body {
 .header-right {
   display: flex;
   float: left;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 480px;
   height: 19px;
