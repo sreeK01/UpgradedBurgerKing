@@ -483,7 +483,7 @@ body {
 .explore-text {
   float: left;
   margin-top: 13px;
-  margin-left: 65px;
+  margin-left: 75px;
 }
 
 .wallpaper {
@@ -585,6 +585,18 @@ body {
 
 
 }
+
+
+
+ul li:not([class]){
+  filter: blur(.45px);
+  color: rgb(213, 213, 213);
+
+
+}
+
+
+
 
 ul,
 ol {
