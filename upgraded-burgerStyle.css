@@ -17,7 +17,6 @@ body {
   position: fixed;
   top: 0;
   z-index: 1000;
-
 }
 
 .header-icon {
@@ -29,10 +28,6 @@ body {
   float: left;
 }
 
-
-
-
-
 .dine {
   font-family: "flame-regular";
   font-size: 16px;
@@ -40,14 +35,6 @@ body {
   width: 153px;
   margin-left: 70px;
 }
-
-
-/* .body {
-  background-color: rgb(72, 255, 0);
-  width: 100%;
-  height: 800px;
-  float: right;
-} */
 
 .toggle {
   display: flex;
@@ -86,7 +73,6 @@ body {
   margin-left: 5px;
   opacity: 0.1;
   background-color: #484848;
-
 }
 
 .search-bar {
@@ -98,9 +84,7 @@ body {
   height: 42px;
   margin-left: 10px;
   border-radius: 200px;
-
 }
-
 
 .search-text {
   font-family: "FlameSans-Regular", sans-serif;
@@ -126,11 +110,7 @@ body {
   word-spacing: 0px;
   padding: 4px 10px 0px;
 
-  transform: scaleY(.9);
-
-
-
-
+  transform: scaleY(0.9);
 }
 
 .header-right {
@@ -145,8 +125,6 @@ body {
   font-size: 16px;
   color: rgb(168, 168, 168);
   letter-spacing: 0.1px;
-
-
 }
 
 .search-icon {
@@ -162,12 +140,11 @@ body {
   margin-top: 75px;
   width: 100%;
   height: 354px;
-  font-family: 'Flame-Regular', sans-serif;
+  font-family: "Flame-Regular", sans-serif;
   font-size: 18px;
   letter-spacing: 0.5px;
   font-weight: 100;
   text-decoration: none solid rgb(0, 0, 0);
-
 }
 
 .nav-background-image {
@@ -176,211 +153,72 @@ body {
   height: 354px;
 }
 
-
-
 .our-menu-title {
   width: 100%;
   height: 95px;
-
-
-
 }
 
 .our-menu-title h2 {
   padding-top: 40px;
   padding-left: 115px;
   font-weight: lighter;
-
-
 }
-
-
-
-
-/* .our-menu {
-  margin-top: 80px;
-  margin-left: -500px;
-  color: rgb(0, 0, 0);
-  font-family: 'Flame-Regular', sans-serif;
-  font-size: 28px;
-  letter-spacing: 0.5px;
-  font-weight: 400;
-  text-transform: uppercase;
-  text-decoration: none solid rgb(0, 0, 0);
-
-
-} */
-
-/* .menu-images {
-  float: left;
-} */
-/* 
-.menu-item-names {
-  display: flex;
-  justify-content: space-around;
-  position: absolute;
-  color: rgb(0, 0, 0);
-  font-family: 'Flame-Regular', sans-serif;
-  font-size: 18px;
-  letter-spacing: 0.5px;
-  font-weight: 400;
-  text-decoration: none solid rgb(0, 0, 0);
-  margin-top: 260px;
-  margin-left: 120px;
-  background-color: green;
-} */
-
-/* .whopper {
-  margin-left: 90px;
-}
-
-
-.burgers {
-  margin-left: 70px;
-
-}
-
-.kings {
-  margin-left: 70px;
-
-}
-
-.sides {
-  margin-left: 70px;
-
-}
-
-.beverages {
-  margin-left: 75px;
-
-}
-
-.chicken {
-  margin-left: 70px;
-
-}
-
-.bk {
-  margin-left: 70px;
-
-}
-
-.friends {
-  margin-left: 70px;
-
-} */
-
 
 .menu-images {
   display: flex;
   justify-content: space-around;
-  /* align-items: center; */
   margin-left: 100px;
   margin-right: 113px;
-
 }
-
 
 /* IMAGE DIV STARTS FROM HERE BELOW */
 
-
 .img-1-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-2-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
-
 }
 
 .img-3-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-4-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-5-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-6-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-7-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-8-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 114px;
   text-align: center;
-
 }
 
 .img-9-div {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
   width: 120px;
   text-align: center;
-
 }
 
-
-
-
-
 /* IMAGE DIV ENDS  HERE */
-
 
 .img-1 {
   width: 114px;
@@ -389,17 +227,12 @@ body {
   border-radius: 5px;
 }
 
-
-
 .img-2 {
   width: 114px;
   height: 112px;
   background-color: white;
   border-radius: 5px;
 }
-
-
-
 
 .img-3 {
   width: 114px;
@@ -451,9 +284,7 @@ body {
   border-radius: 5px;
 }
 
-
 /* IMAGE ELEMENTS ENDS HERE BELOW */
-
 
 .explore-menu {
   background-color: #e70;
@@ -462,8 +293,8 @@ body {
   margin-top: 41px;
   border-radius: 200px;
   margin-left: 589px;
-  color: #FFFFFF;
-  font-family: 'Flame-Regular', sans-serif;
+  color: #ffffff;
+  font-family: "Flame-Regular", sans-serif;
   font-size: 20px;
   line-height: normal;
   vertical-align: baseline;
@@ -478,7 +309,6 @@ body {
   font-feature-settings: normal;
   text-transform: uppercase;
   text-decoration: none solid rgb(255, 255, 255);
-
 }
 
 .explore-text {
@@ -493,8 +323,6 @@ body {
   margin-left: 112px;
   width: 1291px;
   height: 334px;
-
-
 }
 
 .wallpaper-image {
@@ -505,7 +333,7 @@ body {
 
 .nav-disclaimer {
   float: left;
-  font-family: 'Flame-thin', sans-serif;
+  font-family: "Flame-thin", sans-serif;
   font-size: 12px;
   line-height: 24px;
   letter-spacing: normal;
@@ -524,10 +352,9 @@ body {
   margin-left: 523px;
 }
 
-
 .nav-disclaimer2 {
   float: left;
-  font-family: 'Flame-thin', sans-serif;
+  font-family: "Flame-thin", sans-serif;
   font-size: 11.5px;
   line-height: 24px;
   letter-spacing: normal;
@@ -544,11 +371,8 @@ body {
   font-feature-settings: normal;
   margin-left: 595px;
   margin-top: -24px;
-  transform: scaleY(.95);
+  transform: scaleY(0.95);
 }
-
-
-
 
 /* FOOTER STARTS FROM HERE */
 
@@ -559,8 +383,7 @@ body {
   color: rgb(170, 170, 170);
   display: flex;
 
-
-  font-family: 'FlameSans-Regular', sans-serif;
+  font-family: "FlameSans-Regular", sans-serif;
   font-size: 13px;
   line-height: 24.05px;
   letter-spacing: normal;
@@ -577,37 +400,21 @@ body {
   font-feature-settings: normal;
   text-transform: none;
   text-decoration: none;
-
-
-
-
-
-
-
-
 }
-
-
 
 ul li:not([class]) {
-  filter: blur(.45px);
+  filter: blur(0.45px);
   color: rgb(213, 213, 213);
-
-
 }
-
-
-
 
 ul,
 ol {
   list-style-type: none;
-
 }
 
 .list-title {
   color: rgb(255, 255, 255);
-  font-family: 'Flame-Regular', sans-serif;
+  font-family: "Flame-Regular", sans-serif;
   font-size: 16px;
   line-height: normal;
   letter-spacing: 0.3px;
@@ -625,12 +432,7 @@ ol {
   text-transform: uppercase;
   text-decoration: none;
   margin-top: 74px;
-
 }
-
-
-
-
 
 .app-store {
   position: left;
@@ -642,43 +444,29 @@ ol {
 
 .bk-info {
   margin-left: 71px;
-  /* background-color: red; */
-
 }
 
 .contact {
   position: left;
   margin-left: 82px;
-  /* background-color: green; */
 }
 
 .bk-cares {
-  /* background-color: rgb(0, 11, 128); */
   margin-left: 91px;
-
 }
 
 .legal {
-  /* background-color: green; */
   margin-left: 88px;
-
-
 }
 
 .download {
-  /* background-color: rgb(255, 0, 242); */
   margin-left: 80px;
-
-
 }
-
-
 
 .footer-2 {
   background-color: #323231;
   width: 1519px;
   height: 120px;
-
 }
 
 .hr-line {
@@ -687,7 +475,6 @@ ol {
   width: 1335px;
   height: 1.5px;
   margin-left: 88px;
-
 }
 
 .bottom-icon {
@@ -697,7 +484,6 @@ ol {
   margin-left: 123px;
   size: 50px;
   margin-top: 28px;
-
 }
 
 .bottom-container {
@@ -710,14 +496,14 @@ ol {
   margin-top: -50px;
   color: white;
 
-  font-family: 'Flame-Regular', sans-serif;
+  font-family: "Flame-Regular", sans-serif;
   font-size: 16px;
   font-weight: 300;
   font-style: normal;
   font-variant: normal;
   font-stretch: 100%;
   line-height: 24px;
-  letter-spacing: .8px;
+  letter-spacing: 0.8px;
   word-spacing: 0px;
   text-transform: none;
   text-decoration: none;
@@ -726,8 +512,6 @@ ol {
   font-optical-sizing: auto;
   font-variation-settings: normal;
   font-feature-settings: normal;
-
-
 }
 
 .social-media-icons {
@@ -742,7 +526,6 @@ ol {
 
 .twitter {
   margin-left: 20px;
-
 }
 
 .youtube {
