@@ -25,10 +25,13 @@ body {
   height: 47px;
   margin-top: 20px;
   margin-left: 95px;
-  background-color: rgb(255, 255, 255);
-  border-radius: 50%;
+  border-radius: 200px;
   float: left;
 }
+
+
+
+
 
 .dine {
   font-family: "flame-regular";
