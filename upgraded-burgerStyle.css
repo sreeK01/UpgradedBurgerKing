@@ -8,7 +8,7 @@ body {
   src: url("flame-regular.otf") format("opentype");
 }
 
-.header {
+header {
   display: flex;
   align-items: center;
   background-color: rgb(255, 255, 255);
